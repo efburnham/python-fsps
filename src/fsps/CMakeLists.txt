@@ -56,7 +56,6 @@ set(
   "${CMAKE_CURRENT_SOURCE_DIR}/libfsps/src/sfhlimit.f90"
   "${CMAKE_CURRENT_SOURCE_DIR}/libfsps/src/sfhstat.f90"
   "${CMAKE_CURRENT_SOURCE_DIR}/libfsps/src/smoothspec.f90"
-  "${CMAKE_CURRENT_SOURCE_DIR}/libfsps/src/spec_bin.f90"
   "${CMAKE_CURRENT_SOURCE_DIR}/libfsps/src/sps_setup.f90"
   "${CMAKE_CURRENT_SOURCE_DIR}/libfsps/src/ssp_gen.f90"
   "${CMAKE_CURRENT_SOURCE_DIR}/libfsps/src/tsum.f90"
